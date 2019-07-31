@@ -11,5 +11,4 @@
 |
 */
 
-Route::get('/gen', 'DHLController@gen');
 Route::get('/', 'DHLController@index');
